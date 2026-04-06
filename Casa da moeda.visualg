@@ -1,0 +1,19 @@
+// Nome do algoritmo
+algoritmo "Casa da moeda"
+
+var
+   dolar, reais, cotacao : real
+
+inicio
+
+   Escreva("Informe o valor em R$: ")
+    Leia(reais)
+    
+    Escreva("Digite a cotação atual do dólar: ")
+    Leia(cotacao)
+    
+    dolar <- reais / cotacao
+    
+    Escreval("O valor em R$ ",reais," O valor em US$ é ",dolar:2)
+
+fimalgoritmo

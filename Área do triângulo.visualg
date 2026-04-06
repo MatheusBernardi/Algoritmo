@@ -1,0 +1,20 @@
+Algoritmo "Área do triângulo"
+
+Var
+// Seção de Declarações das variáveis 
+base : real
+altura : real
+area : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+    Escreva("Informe a altura do triângulo: ")
+    Leia(altura)
+    
+    Escreva("Digite a base do triângulo: ")
+    Leia(base)
+    
+    area <- (base * altura) / 2
+    Escreva("O valor da área do triângulo é ",area)
+
+Fimalgoritmo
