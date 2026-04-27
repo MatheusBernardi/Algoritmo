@@ -1,0 +1,4 @@
+C:\Users\26108\exercicios\area\obj\Debug\net9.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26108\exercicios\area\obj\Debug\net9.0\area.AssemblyInfoInputs.cache
+C:\Users\26108\exercicios\area\obj\Debug\net9.0\area.AssemblyInfo.cs
+C:\Users\26108\exercicios\area\obj\Debug\net9.0\area.csproj.CoreCompileInputs.cache
